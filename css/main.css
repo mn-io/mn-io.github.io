@@ -445,6 +445,10 @@ div#experience h2.lower {
   top: 3px;
 }
 
+div.print {
+  margin-bottom: 1rem;
+}
+
 /* imprint */
 div#imprint {
   background-color: #e6e6e6;
