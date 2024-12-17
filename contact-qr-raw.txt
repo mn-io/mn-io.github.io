@@ -1,0 +1,6 @@
+BEGIN:VCARD
+N:Neises;Mario;;;
+EMAIL;WORK:business@mnio.net
+TITLE:Fullstack Software Engineer
+URL:https://mnio.net/business
+END:VCARD
